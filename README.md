@@ -13,7 +13,7 @@
 - 📫 How to reach me **vedavedu2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<Img align="right" alt="Coading" width="400" src="!https://tenor.com/view/programming-gif-25868426"> >
+<Img align="right" alt="Coading" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"> >
 <p align="left">
 <a href="https://instagram.com/@__killer__398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@__killer__398" height="30" width="40" /></a>
 </p>
